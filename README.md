@@ -7,41 +7,41 @@ This repository contains the main.py file, which is used to verify whether the f
 
 ### On Linux:
 
-&emsp;Download ZIP code </br>
-&emsp;Unzip downloaded code with command: </br>
+&emsp;Download ZIP code  
+&emsp;Unzip downloaded code with command:  
 &emsp;```unzip RolePolicy-main.zip```
 
 &ensp;Usage:
 
-&emsp;Go to ./RolePolicy-main </br>
-&emsp;```cd ./RolePolicy-main``` </br>
-&emsp; Run code with command: </br>
+&emsp;Go to ./RolePolicy-main  
+&emsp;```cd ./RolePolicy-main```  
+&emsp; Run code with command:  
 &emsp; ```python3 ./main.py {names of files}```
 
 &ensp;Running unittest
 
-&emsp;Go to ./RolePolicy-main/test </br>
-&emsp;```cd ./RolePolicy-main/test``` </br>
-&emsp;Run test with command: </br>
+&emsp;Go to ./RolePolicy-main/test  
+&emsp;```cd ./RolePolicy-main/test```  
+&emsp;Run test with command:  
 &emsp;```python3 -m unittest ./RolePolicy_test.py```
 
 ### On Windows
 
-&emsp;Download ZIP code </br>
-&emsp;Unzip downloaded code </br>
+&emsp;Download ZIP code  
+&emsp;Unzip downloaded code  
 
 &ensp;Usage:
 
-&emsp;Open folder RolePolicy-main </br>
-&emps;Open terminal in this folder </br>
-&emsp; Run code with command: </br>
+&emsp;Open folder RolePolicy-main  
+&emsp;Open terminal in this folder   
+&emsp; Run code with command:  
 &emsp; ```python3 .\main.py {names of files}```
 
 &ensp;Running unittest
 
-&emsp;Go to RolePolicy-main\test </br>
-&emps;Open terminal in this folder </br>
-&emsp;Run test with command: </br>
+&emsp;Go to RolePolicy-main\test  
+&emsp;Open terminal in this folder  
+&emsp;Run test with command:  
 &emsp;```python3 -m unittest .\RolePolicy_test.py```
 
 
