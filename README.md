@@ -8,7 +8,7 @@ This repository contains the main.py file, which is used to verify whether the f
 ### On Linux:
 
 &emsp;Download ZIP code </br>
-&emsp;Unzip code with command: </br>
+&emsp;Unzip downloaded code with command: </br>
 &emsp;```unzip RolePolicy-main.zip```
 
 &ensp;Usage:
@@ -24,4 +24,24 @@ This repository contains the main.py file, which is used to verify whether the f
 &emsp;```cd ./RolePolicy-main/test``` </br>
 &emsp;Run test with command: </br>
 &emsp;```python3 -m unittest ./RolePolicy_test.py```
+
+### On Windows
+
+&emsp;Download ZIP code </br>
+&emsp;Unzip downloaded code </br>
+
+&ensp;Usage:
+
+&emsp;Open folder RolePolicy-main </br>
+&emps;Open terminal in this folder </br>
+&emsp; Run code with command: </br>
+&emsp; ```python3 .\main.py {names of files}```
+
+&ensp;Running unittest
+
+&emsp;Go to RolePolicy-main\test </br>
+&emps;Open terminal in this folder </br>
+&emsp;Run test with command: </br>
+&emsp;```python3 -m unittest .\RolePolicy_test.py```
+
 
